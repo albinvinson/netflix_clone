@@ -19,3 +19,17 @@ body{
     background-color: rgba(0, 0, 0, 0.6);
     padding-bottom: 100px;
 }
+
+
+.login{
+    margin: 0 auto;
+    width: 310px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    padding: 30px 70px 143px 70px;
+}
+
+.login h1{
+    color: white;
+    padding-bottom: 10px;
+}
